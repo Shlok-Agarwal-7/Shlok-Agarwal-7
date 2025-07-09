@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shlok-agarwal-7)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shlok-agarwal-7)<br>
 Hey Folks,<br>Shlok this side, a co-op Intern at AlgoUniversity and student at CBIT <br>Connect with me @ shlokagarwal198@gmail.com 
 
 
