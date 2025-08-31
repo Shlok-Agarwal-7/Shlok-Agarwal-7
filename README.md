@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey Folks,<br>Shlok this side, a co-op Intern at AlgoUniversity and student at CBIT<br>Connect with me @ shlokagarwal198@gmail.com
+Hey Folks,<br>Shlok this side, student at CBIT <br>Connect with me @ shlokagarwal198@gmail.com
 
 
 ## 🌐 Socials:
